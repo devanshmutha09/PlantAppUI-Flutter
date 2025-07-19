@@ -4,7 +4,10 @@ A clean and user‑friendly **Plant Care & Shopping App UI** built with **Flutte
 
 ## 📱 Demo Preview
 
-_Add screenshots or a GIF here showcasing the home screen, plant list, and details screen._
+| Home Screen | Plant Detail Page |
+|-------------|-------------------|
+| ![Home](screenshots/ScreenShot(1).png) | ![Details](screenshots/ScreenShot(2).png) |
+
 
 ## 🚀 Features
 
