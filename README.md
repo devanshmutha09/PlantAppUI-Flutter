@@ -6,7 +6,7 @@ A clean and user‑friendly **Plant Care & Shopping App UI** built with **Flutte
 
 | Home Screen | Plant Detail Page |
 |-------------|-------------------|
-| ![Home](screenshots/ScreenShot(1).png) | ![Details](screenshots/ScreenShot(2).png) |
+| ![Home](https://github.com/devanshmutha09/PlantAppUI-Flutter/blob/main/screenshots/ScreenShot%20(1).png) | ![Details](https://github.com/devanshmutha09/PlantAppUI-Flutter/blob/main/screenshots/ScreenShot%20(2).png) |
 
 
 ## 🚀 Features
